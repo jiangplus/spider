@@ -6,7 +6,7 @@ scrapy runspider spider/spiders/lagou.py -o data.json
 ```
 
 补充了使用浏览器进行抓取的ruby版本，在 `lagou.rb` 文件
-数据文件在 `data` 文件夹，字段分别是：
+数据文件在 `data/result.json` 文件，字段分别是：
 
 
   - position_name : 职位名称
